@@ -4,33 +4,34 @@
 
 ## 书生·浦语的开源路线
 
-![image-20240110113135673](\note_picture\image-20240110113135673.png)
+![image-20240110113135673.png](note_picture%2Fimage-20240110113135673.png)
 
 ## 书生·浦语大模型系列
 
-![image-20240110113243298](\note_picture\image-20240110113243298.png)
+![image-20240110113243298.png](note_picture%2Fimage-20240110113243298.png)
 
 ## 书生·浦语20B大模型性能
 
-![image-20240110113347376](note_picture\image-20240110113347376.png)
+![image-20240110113347376.png](note_picture%2Fimage-20240110113347376.png)
 
 书生·浦语大模型在多数数据测试集之中都处于领先地位，其中以阅读理解最为突出。这主要源于语言模型的卓越表示学习能力和大规模预训练的优势，合理调制的参数量使其能够更好地理解“语言文本信息”。
 
 ## 书生·浦语开源开放体系
 
-![image-20240110113442578](note_picture\image-20240110113442578.png)
+![image-20240110113442578.png](note_picture%2Fimage-20240110113442578.png)
 
 ## 书生·浦语OpenCompass评测体系
 
-![image-20240110113644410](note_picture\image-20240110113644410.png)
+![image-20240110113644410.png](note_picture%2Fimage-20240110113644410.png)
+
 
 ## 大模型部署特定及挑战
 
-![image-20240110113745563](note_picture\image-20240110113745563.png)
+![image-20240110113745563.png](note_picture%2Fimage-20240110113745563.png)
 
 ## 推理框架
 
-![image-20240110113908213](note_picture\image-20240110113908213.png)
+![image-20240110113908213.png](note_picture%2Fimage-20240110113908213.png)
 
 # 总结
 
