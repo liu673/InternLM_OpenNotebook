@@ -8,7 +8,9 @@
 - 完成 Lagent 工具调用 Demo 创作部署（需截图）
 
 **模型介绍**
+
 ![img.png](note_picture%2Fimg.png)
+
 ![img_1.png](note_picture%2Fimg_1.png)
 
 ## Hugging Face 下载 InternLM-20B 
