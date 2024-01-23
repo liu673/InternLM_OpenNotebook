@@ -220,7 +220,7 @@ streamlit run /root/personal_assistant/code/InternLM/web_demo.py --server.addres
 ## 进阶作业
 - 将训练好的Adapter模型权重上传到 OpenXLab、Hugging Face 或者 MoelScope 任一平台。
 - 将训练好后的模型应用部署到 OpenXLab 平台
-
+![img_29.png](note_picture%2Fimg_29.png)
 
 
 
