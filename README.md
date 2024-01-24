@@ -8,6 +8,8 @@
   -  homeworkLink：https://github.com/liu673/InternLM_OpenNotebook/blob/master/lesson_4/lesson_4_homework.md
 - Lesson - 5 notebookLink：https://github.com/liu673/InternLM_OpenNotebook/blob/master/lesson_5/lesson_5_note.md
   -  homeworkLink：https://github.com/liu673/InternLM_OpenNotebook/blob/master/lesson_5/lesson_5_homework.md
+- Lesson - 6 notebookLink：https://github.com/liu673/InternLM_OpenNotebook/blob/master/lesson_6/lesson_6_note.md
+  -  homeworkLink：https://github.com/liu673/InternLM_OpenNotebook/blob/master/lesson_6/lesson_6_homework.md
 
 # 官方教程
 ## 视频
